@@ -8,3 +8,4 @@ for i in range(1, n+1):
     else:
         D[i] = A[i]
 print(max(D[1:]))
+ 
